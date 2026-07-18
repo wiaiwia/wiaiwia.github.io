@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 ---
 # 블로그
 
@@ -7,4 +7,4 @@ layout: default
 
 ## 목차
 
-1. [학습](learn/index.md)
+1. [학습](/learn/)
