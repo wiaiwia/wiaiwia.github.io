@@ -1,8 +1,9 @@
-title: wiaiwia
+title: wiaiwia의 블로그
+author:
+  name: 안종석
 description: 안종석의 블로그
 url: "https://wiaiwia.github.io"
 
 theme: minima
 
-header_pages:
- - index.md
+header_pages: []
