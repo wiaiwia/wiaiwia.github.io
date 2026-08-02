@@ -4,3 +4,4 @@
 
 1. [7월 3주차](/learn/sk-ai/7-3.html)
 2. [7월 4주차](/learn/sk-ai/7-4.html)
+3. [7월 5주차](/learn/sk-ai/7-5.html)
